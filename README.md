@@ -15,4 +15,4 @@
 * Post request on message.
 <img alt="ouput" height="400" src="img/post_message.png">
 * Webscoket message.
-<img alt="ouput" height="400" src="img/socket_message.png">
+<img alt="ouput" height="400" src="img/socket message.png">
